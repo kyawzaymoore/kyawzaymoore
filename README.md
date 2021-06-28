@@ -1,6 +1,6 @@
 ![fido](http://blog.kyawzaymoore.com/wp-content/uploads/2021/06/fido_logo.jpg) 
 ### Hi I’m Kyaw Zay Moore, also know as FiDO. 👋
-#### Software Engineer @ Codigo. 
+### Software Engineer @ Codigo. 
 
 <h2>💻 I'm Currently working on:</h2>
 
@@ -9,15 +9,21 @@
 - CMS
 - Server Deployment
 
+<h2>⚡ Freelance Project:</h2>
+
+- University Web : [https://wytu.edu.mm/](https://wytu.edu.mm)
+- Reseller POS : [http://pos.theinfamily.com/](http://pos.theinfamily.com)
+- Client Web : [https://theinfamily.com/](https://theinfamily.com)
+
 <h2>😄 More about me:</h2>
 
 - Check out my portfolio : [http://kyawzaymoore.com](http://kyawzaymoore.com)
 
-- Check out my Blog: [http://blog.kyawzaymoore.com](http://blog.kyawzaymoore.com)
+- Check out my Blog : [http://blog.kyawzaymoore.com](http://blog.kyawzaymoore.com)
 
-- Blog with beautiful-jekyll on github: [https://kyawzaymoore.github.io](https://kyawzaymoore.github.io)
+- Blog with beautiful-jekyll on github : [https://kyawzaymoore.github.io](https://kyawzaymoore.github.io)
 
-- Write to me: [kyawzaymoore@gmail.com](mailto:kyawzaymoore@gmail.com)
+- Write to me : [kyawzaymoore@gmail.com](mailto:kyawzaymoore@gmail.com)
 
 <h2>📫 How to reach me:</h2>
 
