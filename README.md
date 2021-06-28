@@ -21,6 +21,8 @@
 
 - Check out my Blog : [http://blog.kyawzaymoore.com](http://blog.kyawzaymoore.com)
 
+- Medium : [http://kyawzaymoore.medium.com](http://kyawzaymoore.medium.com)
+
 - Blog with beautiful-jekyll on github : [https://kyawzaymoore.github.io](https://kyawzaymoore.github.io)
 
 - Write to me : [kyawzaymoore@gmail.com](mailto:kyawzaymoore@gmail.com)
