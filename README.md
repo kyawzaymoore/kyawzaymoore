@@ -17,11 +17,11 @@
 
 <h2>😄 More about me:</h2>
 
-- Check out my portfolio : [http://kyawzaymoore.com](http://kyawzaymoore.com)
+- Check out my portfolio : [https://kyawzaymoore.com](http://kyawzaymoore.com)
 
-- Check out my Blog : [http://blog.kyawzaymoore.com](http://blog.kyawzaymoore.com)
+- Check out my Blog : [https://blog.kyawzaymoore.com](http://blog.kyawzaymoore.com)
 
-- Medium : [http://kyawzaymoore.medium.com](http://kyawzaymoore.medium.com)
+- Medium : [https://kyawzaymoore.medium.com](http://kyawzaymoore.medium.com)
 
 - Blog with beautiful-jekyll on github : [https://kyawzaymoore.github.io](https://kyawzaymoore.github.io)
 
