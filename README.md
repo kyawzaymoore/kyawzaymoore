@@ -9,12 +9,6 @@
 - CMS
 - Server Deployment
 
-<h2>⚡ Freelance Project:</h2>
-
-- University Web : [https://wytu.edu.mm/](https://wytu.edu.mm)
-- Reseller POS : [http://pos.theinfamily.com/](http://pos.theinfamily.com)
-- Client Web : [https://theinfamily.com/](https://theinfamily.com)
-
 <h2>😄 More about me:</h2>
 
 - Check out my portfolio : [https://kyawzaymoore.com](http://kyawzaymoore.com)
